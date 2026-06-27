@@ -1,0 +1,5 @@
+Model,Best_k,Best_mean_CV_F1,K_candidates
+LinearSVM,22,0.878966,"[5, 8, 10, 12, 15, 18, 22]"
+LogisticRegression,5,0.8785,"[5, 8, 10, 12, 15, 18, 22]"
+XGBoost,22,0.878363,"[5, 8, 10, 12, 15, 18, 22]"
+RandomForest,8,0.874619,"[5, 8, 10, 12, 15, 18, 22]"

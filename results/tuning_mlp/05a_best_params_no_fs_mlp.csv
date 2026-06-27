@@ -1,0 +1,2 @@
+Model,Best_CV_F1,mlp__solver,mlp__learning_rate_init,mlp__hidden_layer_sizes,mlp__batch_size,mlp__alpha,mlp__activation
+MLP,0.875955024792234,adam,0.004832930238571752,"(128,)",8,0.029763514416313194,relu

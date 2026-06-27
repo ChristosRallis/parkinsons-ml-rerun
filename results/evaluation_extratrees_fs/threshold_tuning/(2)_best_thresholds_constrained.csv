@@ -1,0 +1,5 @@
+Model,Best_Threshold,Strategy_Note,Best_F1,Best_Recall,Best_Bal_Acc,Best_Precision,Default_F1_0.50,Constraint_Target
+RandomForest,0.25,Constraint Met ✅,0.9027,1.0,0.6528,0.8227,0.871,Recall>=0.9
+LinearSVM,0.17,Constraint Met ✅,0.8906,0.9828,0.6303,0.8143,0.8462,Recall>=0.9
+LogisticRegression,0.4,Constraint Met ✅,0.8852,0.931,0.6877,0.8438,0.8824,Recall>=0.9
+XGBoost,0.51,Constraint Met ✅,0.8845,0.9569,0.6451,0.8222,0.881,Recall>=0.9

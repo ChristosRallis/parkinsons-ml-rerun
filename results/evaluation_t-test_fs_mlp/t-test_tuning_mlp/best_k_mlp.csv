@@ -1,0 +1,2 @@
+Model,Best_k,Best_mean_CV_F1,K_candidates
+MLP,22,0.875955024792234,"[5, 8, 10, 12, 15, 18, 22]"

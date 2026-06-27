@@ -1,0 +1,2 @@
+Model,Best_Threshold,Strategy_Note,Best_F1,Best_Recall,Best_Bal_Acc,Best_Precision,Default_F1_0.50,Constraint_Target
+MLP,0.39,Constraint Met ✅,0.8992,1.0,0.6389,0.8169,0.88,Recall>=0.9

@@ -1,0 +1,2 @@
+model,accuracy,precision,recall,f1,roc_auc,threshold,pipeline,cv_f1_std,cv_roc_auc_std,n_features,cv_std_for_rank
+Random Forest,0.9069767441860463,0.8857142857142857,1.0,0.9393939393939394,0.935483870967742,0.53,lasso,0.0491364745492428,0.1033962478908487,8,0.1033962478908487

@@ -1,0 +1,15 @@
+{
+    "Model": "MLP",
+    "best_params": {
+        "mlp__solver": "adam",
+        "mlp__learning_rate_init": 0.004832930238571752,
+        "mlp__hidden_layer_sizes": [
+            128
+        ],
+        "mlp__batch_size": 8,
+        "mlp__alpha": 0.029763514416313194,
+        "mlp__activation": "relu"
+    },
+    "best_cv_f1": 0.875955024792234,
+    "n_iter": 120
+}

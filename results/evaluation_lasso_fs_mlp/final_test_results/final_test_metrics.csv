@@ -1,0 +1,2 @@
+Model,best_C_used,Threshold_Used,n_selected_features_full_train,AUC,Accuracy,Recall,Precision,F1
+MLP,0.1,0.52,2,0.9166666666666667,0.8604651162790697,1.0,0.8378378378378378,0.9117647058823529

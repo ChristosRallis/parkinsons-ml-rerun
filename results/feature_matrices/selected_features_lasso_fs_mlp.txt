@@ -1,0 +1,5 @@
+best_C = 0.1
+n_selected = 2
+
+MDVP:Fo(Hz)
+spread1

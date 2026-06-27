@@ -1,0 +1,30 @@
+{
+    "scoring": "f1",
+    "k_list": [
+        5,
+        8,
+        10,
+        12,
+        15,
+        18,
+        22
+    ],
+    "best_k_per_model": {
+        "LogisticRegression": {
+            "best_k": 5,
+            "best_mean_cv_f1": 0.881981
+        },
+        "LinearSVM": {
+            "best_k": 22,
+            "best_mean_cv_f1": 0.878966
+        },
+        "XGBoost": {
+            "best_k": 22,
+            "best_mean_cv_f1": 0.878363
+        },
+        "RandomForest": {
+            "best_k": 8,
+            "best_mean_cv_f1": 0.868203
+        }
+    }
+}

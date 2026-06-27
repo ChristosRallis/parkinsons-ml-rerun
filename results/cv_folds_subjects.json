@@ -1,0 +1,102 @@
+{
+  "n_splits": 3,
+  "random_state": 42,
+  "folds": [
+    {
+      "fold": 1,
+      "train_subjects": [
+        "phon_R01_S02",
+        "phon_R01_S04",
+        "phon_R01_S07",
+        "phon_R01_S08",
+        "phon_R01_S13",
+        "phon_R01_S18",
+        "phon_R01_S19",
+        "phon_R01_S22",
+        "phon_R01_S24",
+        "phon_R01_S26",
+        "phon_R01_S27",
+        "phon_R01_S31",
+        "phon_R01_S35",
+        "phon_R01_S39",
+        "phon_R01_S42",
+        "phon_R01_S43"
+      ],
+      "val_subjects": [
+        "phon_R01_S01",
+        "phon_R01_S06",
+        "phon_R01_S10",
+        "phon_R01_S20",
+        "phon_R01_S25",
+        "phon_R01_S32",
+        "phon_R01_S34",
+        "phon_R01_S44",
+        "phon_R01_S50"
+      ]
+    },
+    {
+      "fold": 2,
+      "train_subjects": [
+        "phon_R01_S01",
+        "phon_R01_S04",
+        "phon_R01_S06",
+        "phon_R01_S08",
+        "phon_R01_S10",
+        "phon_R01_S18",
+        "phon_R01_S19",
+        "phon_R01_S20",
+        "phon_R01_S24",
+        "phon_R01_S25",
+        "phon_R01_S31",
+        "phon_R01_S32",
+        "phon_R01_S34",
+        "phon_R01_S39",
+        "phon_R01_S43",
+        "phon_R01_S44",
+        "phon_R01_S50"
+      ],
+      "val_subjects": [
+        "phon_R01_S02",
+        "phon_R01_S07",
+        "phon_R01_S13",
+        "phon_R01_S22",
+        "phon_R01_S26",
+        "phon_R01_S27",
+        "phon_R01_S35",
+        "phon_R01_S42"
+      ]
+    },
+    {
+      "fold": 3,
+      "train_subjects": [
+        "phon_R01_S01",
+        "phon_R01_S02",
+        "phon_R01_S06",
+        "phon_R01_S07",
+        "phon_R01_S10",
+        "phon_R01_S13",
+        "phon_R01_S20",
+        "phon_R01_S22",
+        "phon_R01_S25",
+        "phon_R01_S26",
+        "phon_R01_S27",
+        "phon_R01_S32",
+        "phon_R01_S34",
+        "phon_R01_S35",
+        "phon_R01_S42",
+        "phon_R01_S44",
+        "phon_R01_S50"
+      ],
+      "val_subjects": [
+        "phon_R01_S04",
+        "phon_R01_S08",
+        "phon_R01_S18",
+        "phon_R01_S19",
+        "phon_R01_S24",
+        "phon_R01_S31",
+        "phon_R01_S39",
+        "phon_R01_S43"
+      ]
+    }
+  ]
+}

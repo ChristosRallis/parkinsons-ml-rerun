@@ -1,0 +1,2 @@
+Model,k_used,Threshold_Used,n_selected_features_full_train,AUC,Accuracy,Recall,Precision,F1
+MLP,22,0.39,22,0.9704301075268817,0.8837209302325582,1.0,0.8611111111111112,0.9253731343283582

@@ -1,0 +1,32 @@
+{
+    "scoring": "f1",
+    "C_list": [
+        0.001,
+        0.003,
+        0.01,
+        0.03,
+        0.1,
+        0.3,
+        1.0,
+        3.0,
+        10.0
+    ],
+    "best_C_per_model": {
+        "LogisticRegression": {
+            "best_C": 0.3,
+            "best_mean_cv_f1": 0.890062
+        },
+        "XGBoost": {
+            "best_C": 1.0,
+            "best_mean_cv_f1": 0.885114
+        },
+        "LinearSVM": {
+            "best_C": 0.001,
+            "best_mean_cv_f1": 0.878966
+        },
+        "RandomForest": {
+            "best_C": 1.0,
+            "best_mean_cv_f1": 0.877984
+        }
+    }
+}
